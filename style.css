@@ -84,21 +84,21 @@ i:hover {
 .dash {
   height: 8px;
   width: 40px;
-  background: #ff6584;
+  background: #ff6587;
   margin-bottom: 15px;
 }
 
 .dash-2 {
   height: 8px;
   width: 40px;
-  background: #ff6584;
+  background: #ff6586;
   margin-bottom: 40px;
 }
 
 .dash-3 {
   height: 8px;
   width: 40px;
-  background: #ff6584;
+  background: #ff6583;
   margin-bottom: 40px;
   display: none;
 }
@@ -110,7 +110,7 @@ p {
 
 a {
   text-decoration: none;
-  color: black;
+  color: rgb(3, 3, 3);
   text-transform: uppercase;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   border: solid black 1px;
