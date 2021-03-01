@@ -10,7 +10,7 @@ nav {
   display: grid;
   grid-template-areas: 'logo nav-links social-media';
   text-align: center;
-  padding: 20px;
+  padding: 19px;
 }
 
 .logo {
